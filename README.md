@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Beginner Creator
 --------------------------
 
-At 16, worked as an IT-assistant in school. \n 
+At 16, worked as an IT-assistant in school.  
 At 17, currently pursuing a Bachelor’s degree in Computer Science at Uzbekistan's Top #1 private university, CAU.
 
 * 🌍  I'm based in Astana
