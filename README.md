@@ -1,14 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yerkhan Nurulla
 =======================================================================================================================================
 
-Beginner Python Programmer
+Beginner Creator
 --------------------------
 
-At the age of 16, currently work as the assistant of the IT-office at the school from the beginning of the year.Working here helped me to build a vast and strong relationship across all STEM teachers and be more recognizable and activistic.
+At 16, worked as an IT-assistant in school. 
+At 17, currently pursuing a Bachelor’s degree in Computer Science at Uzbekistan's Top #1 private university, CAU.
 
 * 🌍  I'm based in Astana
-* ✉️  You can contact me at [nurulla.erhan@gmail.com](mailto:nurulla.erhan@gmail.com)
-* 🧠  I'm learning Python and soon will explore C#
+* ✉️  You can contact me at [yerkhan.nurulla@gmail.com](mailto:yerkhan.nurulla@gmail.com)
+  
 
 ### Skills
 
