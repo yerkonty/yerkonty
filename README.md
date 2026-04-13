@@ -6,6 +6,7 @@ Beginner Creator
 
 At 16, worked as an IT-assistant in school.  
 At 17, currently pursuing a Bachelor’s degree in Computer Science at Uzbekistan's Top #1 private university, CAU.
+At 18, creating next leading multi-functional SAT preparation platform in the world.
 
 * 🌍  I'm based in Astana
 * ✉️  You can contact me at [yerkhan.nurulla@gmail.com](mailto:yerkhan.nurulla@gmail.com)
