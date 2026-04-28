@@ -4,8 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Beginner Creator
 --------------------------
 
-At 17, currently pursuing a Bachelor’s degree in Computer Science at Uzbekistan's Top #1 private university, CAU.
-At 18, creating next leading multi-functional SAT preparation platform in the world.
+At 18, currently pursuing a Bachelor’s degree in Computer Science at Uzbekistan's Top #1 private university, CAU.
 
 * 🌍  I'm based in Astana
 * ✉️  You can contact me at [yerkhan.nurulla@gmail.com](mailto:yerkhan.nurulla@gmail.com)
